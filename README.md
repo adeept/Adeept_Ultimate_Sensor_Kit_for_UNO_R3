@@ -34,12 +34,18 @@ About Adeept is a technical service team of open source software and hardware. D
 
 http://www.adeept.com
 
-Course Catalog
+# Course Catalog
+
 Lesson01   Blinking LED  
+
 Lesson02   Controlling An LED by A Button	 
-Lesson03   Controlling An RGB LED by PWM	 
+
+Lesson03   Controlling An RGB LED by PWM	
+
 Lesson04   How To Use Potentiometers	 
+
 Lesson05   Control An LED by Vibration	 
+
 Lesson06   How To Use The Hall Sensor	  
 Lesson07   How To Use The Photoresister	 
 Lesson08   How To Use The Thermistor	 

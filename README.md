@@ -36,21 +36,16 @@ http://www.adeept.com
 
 # Course Catalog
 
-Lesson01   Blinking LED  
-
-Lesson02   Controlling An LED by A Button	 
-
-Lesson03   Controlling An RGB LED by PWM	
-
-Lesson04   How To Use Potentiometers	 
-
-Lesson05   Control An LED by Vibration	 
-
-Lesson06   How To Use The Hall Sensor	  
-Lesson07   How To Use The Photoresister	 
-Lesson08   How To Use The Thermistor	 
-Lesson09   How To Use The DS18B20 	 
-Lesson10   Alarm Prompt	 
+Lesson01   Blinking LED    
+Lesson02   Controlling An LED by A Button	    
+Lesson03   Controlling An RGB LED by PWM	  
+Lesson04   How To Use Potentiometers	   
+Lesson05   Control An LED by Vibration	   
+Lesson06   How To Use The Hall Sensor	    
+Lesson07   How To Use The Photoresister	     
+Lesson08   How To Use The Thermistor	                                      
+Lesson09   How To Use The DS18B20 	                
+Lesson10   Alarm Prompt	         
 Lesson11   Playing Music	 
 Lesson12   Detection Of Human Body Movement	 
 Lesson13   How To Use The LCD1602	 

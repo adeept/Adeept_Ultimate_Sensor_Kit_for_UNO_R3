@@ -1,14 +1,12 @@
 # Adeept_Ultimate_Sensor_Kit_for_UNO_R3
-<<<<<<< HEAD
-Adeept Ultimate Sensor Kit for Arduino UNO R3
-=======
+
 Adeept Ultimate Sensor Kit for Arduino UNO R3 V2. A kit for learnning Arduino with C programming and electronics knowledge.
 
 Download Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window. Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
 
 If you meet any difficulties, please contact our support team for help.
 
-Use Download the ZIP or RAR file as above. Unzip it and you will get a folder contains tutorials and related files. Complete information download address：https://www.adeept.com/learn/detail-19.html. Please start with "Tutorial.pdf".
+Use Download the ZIP or RAR file as above. Unzip it and you will get a folder contains tutorials and related files. Complete information download address：https://www.adeept.com/learn/detail-10.html. Please start with "Tutorial.pdf".
 
 Support Adeept provides free and quick customer support. Including but not limited to:
 
